@@ -1,7 +1,7 @@
 {
-  "token": "0124567890:FILL_YOUR_BOT_TOKEN",
-  "api_id": 1234567,
-  "api_hash": "fill_your_api_hash",
+  "token": "1732656702:AAEXJ6pLMaR-T7I7MFbaCnmCThxUjJxNuLc",
+  "api_id": 2284624,
+  "api_hash": "dffb30e62d80efa7849516a7769c95aa",
   "links": ["invited_link_for_prefetching_group_members"],
   "keywords": ["@all", "@everyone", "@MentionAllMembersBot"]
 }
